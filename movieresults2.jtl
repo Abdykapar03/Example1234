@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691392114249,1856,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-1,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1856,0,1798
+1691392114249,1856,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-2,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1844,0,1784
+1691392114830,1277,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-9,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1259,0,1207
+1691392114628,1479,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-7,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1474,0,1418
+1691392114249,1853,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-3,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1850,0,1794
+1691392114932,1175,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-10,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1155,0,1101
+1691392114530,1573,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-6,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1562,0,1511
+1691392114338,1768,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-4,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1755,0,1699
+1691392114732,1374,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-8,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1374,0,1314
+1691392114431,1669,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-5,text,true,,3377,407,10,10,https://cinematica.kg/api/v1/movies/1899,1656,0,1594
+1691392116133,236,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-2,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,233,0,0
+1691392116129,241,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-4,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,239,0,0
+1691392116133,259,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-8,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,257,0,0
+1691392116131,275,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-7,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,273,0,0
+1691392116119,321,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-1,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,319,0,0
+1691392116131,315,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-10,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,310,0,0
+1691392116396,55,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-8,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,55,0,0
+1691392116378,73,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-4,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,73,0,0
+1691392116410,44,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-7,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,44,0,0
+1691392116373,83,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-2,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,83,0,0
+1691392116448,37,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-10,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,37,0,0
+1691392116442,44,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-1,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,44,0,0
+1691392116124,395,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-9,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,393,0,0
+1691392116126,418,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-6,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,417,0,0
+1691392116137,409,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-5,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,408,0,0
+1691392116521,31,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-9,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,31,0,0
+1691392116548,40,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-6,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,39,0,0
+1691392116549,48,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-5,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,47,0,0
+1691392116122,547,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-3,text,true,,22784,478,10,10,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,546,0,0
+1691392116672,25,https://cinematica.kg/api/v1/cinema/6,200,OK,Thread Group 1-3,text,true,,4452,458,10,10,https://cinematica.kg/api/v1/cinema/6,25,0,0
+1691392116453,367,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-8,text,true,,95184,476,10,10,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,348,0,0
+1691392116456,495,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-7,text,true,,95184,476,10,10,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,472,0,0
+1691392116701,265,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-3,text,true,,95184,476,10,10,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,249,0,0
+1691392116823,167,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-8,text,true,,626,494,10,10,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,167,0,0
+1691392114729,2222,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-8,,true,,126423,2313,10,10,null,2201,41,1314
+1691392116590,483,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-6,text,true,,95184,476,9,9,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,456,0,0
+1691392116453,634,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-4,text,true,,95184,476,9,9,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,608,0,0
+1691392116599,601,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-5,text,true,,95184,476,9,9,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,579,0,0
+1691392116953,277,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-7,text,true,,626,494,9,9,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,277,0,0
+1691392116969,261,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-3,text,true,,626,494,9,9,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,261,0,0
+1691392114626,2570,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-7,,true,,126423,2313,9,9,null,2540,36,1418
+1691392114220,2951,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-3,,true,,126423,2313,9,9,null,2931,61,1794
+1691392116459,804,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-2,text,true,,95184,476,7,7,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,744,0,0
+1691392117076,356,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-6,text,true,,626,494,7,7,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,356,0,0
+1691392114529,2870,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-6,,true,,126423,2313,7,7,null,2830,35,1511
+1691392117089,347,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-4,text,true,,626,494,6,6,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,347,0,0
+1691392116486,951,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-10,text,true,,95184,476,6,6,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,877,0,0
+1691392114328,3063,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-4,,true,,126423,2313,6,6,null,3022,48,1699
+1691392117203,238,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-5,text,true,,626,494,5,5,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,238,0,0
+1691392114426,2965,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-5,,true,,126423,2313,5,5,null,2928,53,1594
+1691392117266,178,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-2,text,true,,626,494,5,5,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,178,0,0
+1691392114125,3157,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-2,,true,,126423,2313,5,5,null,3082,164,1784
+1691392117440,84,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-10,text,true,,626,494,3,3,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,84,0,0
+1691392114930,2562,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-10,,true,,126423,2313,3,3,null,2463,34,1101
+1691392116487,1049,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-1,text,true,,95184,476,2,2,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,1012,0,0
+1691392117539,59,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-1,text,true,,626,494,2,2,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,59,0,0
+1691392114036,3329,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,126423,2313,2,2,null,3290,229,1798
+1691392116555,1092,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,200,OK,Thread Group 1-9,text,true,,95184,476,1,1,https://cinematica.kg/api/v1/repertory/cinema/6/grouped,1067,0,0
+1691392117650,63,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,200,OK,Thread Group 1-9,text,true,,626,494,1,1,https://cinematica.kg/api/v1/repertory/seats/6/60000008/60001448/60105286,63,0,0
+1691392114828,2859,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-9,,true,,126423,2313,1,1,null,2813,28,1207
